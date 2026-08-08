@@ -1,14 +1,14 @@
 
-💫 About Me:
-Hi, I'm Rajesh Vishwakarma 👋
-I'm a Full Stack Developer passionate
-about building responsive and user-friendly
-web applications.
-I enjoy working with
-HTML, CSS, JavaScript, Bootstrap, React, Node.js, MongoDB, MySQL
-and Git/GitHub. I'm continuously
-learning new technologies and
-building projects to improve my skills. 🚀
+💫 About Me:<br>
+Hi, I'm Rajesh Vishwakarma 👋<br>
+I'm a Full Stack Developer passionate<br>
+about building responsive and user-friendly<br>
+web applications.<br>
+I enjoy working with<br>
+HTML, CSS, JavaScript, Bootstrap, React, Node.js, MongoDB, MySQL<br>
+and Git/GitHub. I'm continuously<br>
+learning new technologies and<br>
+building projects to improve my skills. 🚀<br>
 
 
 🛠️ Tech Stack:
