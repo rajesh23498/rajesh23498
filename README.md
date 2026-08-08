@@ -35,17 +35,15 @@ building projects to improve my skills. 🚀<br>
 
 
 📊 GitHub Stats:
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Rajesh's [GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical](https://github.com/rajesh23498))
 
----
 
-## 🔥 Top Projects:
+ 🔥 Top Projects:
 - 🛒 Ecommerce Website (MERN Stack)  
 - 🏥 Hospital Management System  
 - 🎓 School Management System  
 - 🌐 Portfolio Website  
 
----
 
 ## 🌐 Connect with me:
 - 📧 Email: rajesh8988cool@gmail.com 
