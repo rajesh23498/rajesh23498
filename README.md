@@ -34,10 +34,6 @@ building projects to improve my skills. 🚀<br>
 ![Netlify](https://img.shields.io/badge/Netlify-green?style=flat&logo=netlify)
 
 
-📊 GitHub Stats:
-![Rajesh's [GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical](https://github.com/rajesh23498))
-
-
  🔥 Top Projects:
 - 🛒 Ecommerce Website (MERN Stack)  
 - 🏥 Hospital Management System  
